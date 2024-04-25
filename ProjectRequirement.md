@@ -1,7 +1,5 @@
 # Final Project
 
-**Due Mon Apr 22, 11:59pm ET**
-
 ## Submission Instructions
 
 * start from the up-to-date main branch (`git checkout main; git pull origin main`)
